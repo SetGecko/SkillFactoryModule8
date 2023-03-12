@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesForWorkingWithDisksA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_8.2.1", "Task_8.2.1\Task_8.2.1.csproj", "{38E14DCA-2B23-4A98-8544-8C6AD5A55FB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateNewFolder_8.2", "CreateNewFolder_8.2\CreateNewFolder_8.2.csproj", "{0BFB125D-6C7D-480E-A3B5-79E4B4CDE228}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{38E14DCA-2B23-4A98-8544-8C6AD5A55FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38E14DCA-2B23-4A98-8544-8C6AD5A55FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38E14DCA-2B23-4A98-8544-8C6AD5A55FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFB125D-6C7D-480E-A3B5-79E4B4CDE228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFB125D-6C7D-480E-A3B5-79E4B4CDE228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFB125D-6C7D-480E-A3B5-79E4B4CDE228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFB125D-6C7D-480E-A3B5-79E4B4CDE228}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
