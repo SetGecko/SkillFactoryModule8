@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_8.1.4", "Task_8.1.4\Ta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_8.1.5", "Task_8.1.5\Task_8.1.5.csproj", "{0FB90CA5-158B-4487-9D24-2A3698E45797}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesForWorkingWithDisksAndDirectories_8.2", "ClassesForWorkingWithDisksAndDirectories_8.2\ClassesForWorkingWithDisksAndDirectories_8.2.csproj", "{08891DF6-2230-4551-A708-A74DFB19F36B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesForWorkingWithDisksAndDirectories_8.2", "ClassesForWorkingWithDisksAndDirectories_8.2\ClassesForWorkingWithDisksAndDirectories_8.2.csproj", "{08891DF6-2230-4551-A708-A74DFB19F36B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_8.2.1", "Task_8.2.1\Task_8.2.1.csproj", "{38E14DCA-2B23-4A98-8544-8C6AD5A55FB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_8.2.1", "Task_8.2.1\Task_8.2.1.csproj", "{38E14DCA-2B23-4A98-8544-8C6AD5A55FB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateNewFolder_8.2", "CreateNewFolder_8.2\CreateNewFolder_8.2.csproj", "{0BFB125D-6C7D-480E-A3B5-79E4B4CDE228}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateNewFolder_8.2", "CreateNewFolder_8.2\CreateNewFolder_8.2.csproj", "{0BFB125D-6C7D-480E-A3B5-79E4B4CDE228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_8.2.2", "Task_8.2.2\Task_8.2.2.csproj", "{5C86A3D1-ED74-475A-A42A-82B5979B41E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{0BFB125D-6C7D-480E-A3B5-79E4B4CDE228}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BFB125D-6C7D-480E-A3B5-79E4B4CDE228}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BFB125D-6C7D-480E-A3B5-79E4B4CDE228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C86A3D1-ED74-475A-A42A-82B5979B41E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C86A3D1-ED74-475A-A42A-82B5979B41E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C86A3D1-ED74-475A-A42A-82B5979B41E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C86A3D1-ED74-475A-A42A-82B5979B41E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
