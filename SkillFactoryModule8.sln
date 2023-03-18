@@ -13,19 +13,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_8.2.1", "Task_8.2.1\Ta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateNewFolder_8.2", "CreateNewFolder_8.2\CreateNewFolder_8.2.csproj", "{0BFB125D-6C7D-480E-A3B5-79E4B4CDE228}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_8.2.2", "Task_8.2.2\Task_8.2.2.csproj", "{5C86A3D1-ED74-475A-A42A-82B5979B41E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_8.2.2", "Task_8.2.2\Task_8.2.2.csproj", "{5C86A3D1-ED74-475A-A42A-82B5979B41E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_8.2.3", "Task_8.2.3\Task_8.2.3.csproj", "{ABA94BDF-7E79-4AA3-8474-C54B6AEA3BF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_8.2.3", "Task_8.2.3\Task_8.2.3.csproj", "{ABA94BDF-7E79-4AA3-8474-C54B6AEA3BF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_8.2.4", "Task_8.2.4\Task_8.2.4.csproj", "{936ABF59-E892-492A-9F25-F9A00ADB3CFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_8.2.4", "Task_8.2.4\Task_8.2.4.csproj", "{936ABF59-E892-492A-9F25-F9A00ADB3CFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_8.3", "Practice_8.3\Practice_8.3.csproj", "{A751956C-933B-4F69-9447-5946D8D99B09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice_8.3", "Practice_8.3\Practice_8.3.csproj", "{A751956C-933B-4F69-9447-5946D8D99B09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_8.3.1", "Task_8.3.1\Task_8.3.1.csproj", "{DE88DC0A-59BF-4378-904A-9128903FEE2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_8.3.1", "Task_8.3.1\Task_8.3.1.csproj", "{DE88DC0A-59BF-4378-904A-9128903FEE2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_8.3v2", "Practice_8.3v2\Practice_8.3v2.csproj", "{3C0A2A1A-526D-4320-B2A9-9F0D6C023624}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice_8.3v2", "Practice_8.3v2\Practice_8.3v2.csproj", "{3C0A2A1A-526D-4320-B2A9-9F0D6C023624}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_8.3.2", "Task_8.3.2\Task_8.3.2.csproj", "{58EF832C-EA18-4F92-A3D0-A5A6B6590681}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_8.3.2", "Task_8.3.2\Task_8.3.2.csproj", "{58EF832C-EA18-4F92-A3D0-A5A6B6590681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_8.4", "Practice_8.4\Practice_8.4.csproj", "{FB693126-2A3E-4507-8109-A5688D770D7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{58EF832C-EA18-4F92-A3D0-A5A6B6590681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58EF832C-EA18-4F92-A3D0-A5A6B6590681}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58EF832C-EA18-4F92-A3D0-A5A6B6590681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB693126-2A3E-4507-8109-A5688D770D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB693126-2A3E-4507-8109-A5688D770D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB693126-2A3E-4507-8109-A5688D770D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB693126-2A3E-4507-8109-A5688D770D7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
